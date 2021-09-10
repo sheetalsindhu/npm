@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "age": "1089890"
+    },
+    {
+      "myname": "Tom & jerry",
+      "mycity": "rohtak",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "age": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "age": 2.5,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Chocolate",
+      "price": 6,
+      "active": true
+    },
+    {
+      "name": "5 star",
+      "price": "100",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "5 Star",
+      "price": 10,
+      "active": false
+    },
+    
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 15
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 16
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 17
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 18
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 19
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 20
+    },
+    {
+      "name": "5 Star",
+      "price": 10,
+      "active": false,
+      "id": 21
+    }
+   
+    
+  ]
+}
